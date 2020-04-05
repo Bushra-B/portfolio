@@ -1543,7 +1543,7 @@ section, article {
             }
 
                 #nav ul li a.active span:before {
-                    color: #e27689;
+                    color: rgb(177, 93, 219);
                 }
 
 /* Footer */
